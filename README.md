@@ -1,10 +1,12 @@
 # 将条码图片批量嵌入到Excel单元格中
+(Batch embed barcode images into Excel cells)
 业务场景：
 
 需要将条码图片存到excel之中方便归档。
 
 效果展示：
 直接运行org.example.Main.main()就会将file目录中的图片插入到excel中，并且在项目根目录会生成一个.xlsx文件。
+
 ![img.png](img.png)
 ![img_2.png](img_2.png)
 最后生成的excel文件中的内容如下：
